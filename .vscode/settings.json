@@ -56,5 +56,7 @@
     "dotnet.testWindow.useTestingPlatformProtocol": true,
     "clang.cflags": [
         "C (e.g. [\"-std=c99\"])"
-    ]
+    ],
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true
 }
