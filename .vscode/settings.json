@@ -1,0 +1,60 @@
+{
+    "projectManager.git.baseFolders": [
+        " Base Folders"
+    ],
+    "files.exclude": {
+        "": true
+    },
+    "explorer.excludeGitIgnore": true,
+    "explorer.fileNesting.enabled": true,
+    "eslint.onIgnoredFiles": "warn",
+    "inlineChat.finishOnType": true,
+    "application.experimental.rendererProfiling": true,
+    "ipynb.experimental.serialization": true,
+    "dotnetAcquisitionExtension.allowInvalidPaths": true,
+    "dotnetAcquisitionExtension.enablePreviewFeatures": true,
+    "dotnetAcquisitionExtension.proxyUrl": "http-nio-8080\"",
+    "AREPL.shell_plus": true,
+    "csharp.debug.expressionEvaluationOptions.showRawValues": true,
+    "csharp.debug.logging.diagnosticsLog.debugEngineAPITracing": "all",
+    "csharp.debug.logging.diagnosticsLog.expressionEvaluationTracing": true,
+    "csharp.debug.logging.diagnosticsLog.protocolMessages": true,
+    "csharp.debug.logging.diagnosticsLog.startDebuggingTracing": true,
+    "csharp.debug.logging.elapsedTiming": true,
+    "csharp.debug.stopAtEntry": true,
+    "csharp.debug.sourceFileMap": {
+        "{\"<build-path>\":\"<local-source-path>\"}": ""
+    },
+    "csharp.debug.suppressJITOptimizations": true,
+    "csharp.debug.symbolOptions.moduleFilter.excludedModules": [
+        "Excluded Modules"
+    ],
+    "csharp.debug.symbolOptions.searchMicrosoftSymbolServer": true,
+    "csharp.debug.symbolOptions.searchNuGetOrgSymbolServer": true,
+    "csharp.debug.symbolOptions.searchPaths": [
+        "",
+        "https://github.com/sil3nt544"
+    ],
+    "razor.languageServer.debug": true,
+    "razor.languageServer.forceRuntimeCodeGeneration": true,
+    "dotnet.preferCSharpExtension": true,
+    "dotnet.server.componentPaths": {
+        "oslynDevKit": ".vscode/settings.json"
+    },
+    "omnisharp.sdkPath": " /home/username/dotnet/sdks/6.0.300.",
+    "razor.completion.commitElementsWithSpace": true,
+    "razor.devmode": true,
+    "razor.format.codeBlockBraceOnNextLine": true,
+    "csharp.preview.improvedLaunchExperience": true,
+    "dotnet.automaticallySyncWithActiveItem": true,
+    "dotnet.preferVisualStudioCodeFileSystemWatcher": true,
+    "dotnet.previewSolution-freeWorkspaceMode": true,
+    "dotnet.testWindow.disableAutoDiscovery": true,
+    "dotnet.testWindow.disableBuildOnRefresh": true,
+    "dotnet.testWindow.disableBuildOnRun": true,
+    "dotnet.testWindow.enableTestExplorerDiff": true,
+    "dotnet.testWindow.useTestingPlatformProtocol": true,
+    "clang.cflags": [
+        "C (e.g. [\"-std=c99\"])"
+    ]
+}

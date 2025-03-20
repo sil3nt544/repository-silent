@@ -1,0 +1,25 @@
+[{
+        "name": "Pascal MI",
+        "rootPath": "c:\\PascalProjects\\pascal-menu-insight",
+        "tags": [],
+        "enabled": true
+    },
+    {
+        "name": "Bookmarks",
+        "rootPath": "$home\\Documents\\GitHub\\vscode-bookmarks",
+        "tags": [
+            "Personal",
+            "VS Code"
+        ],
+        "enabled": true
+    },
+    {
+        "name": "Numbered Bookmarks",
+        "rootPath": "~\\Documents\\GitHub\\vscode-numbered-bookmarks",
+        "tags": [
+            "Personal",
+            "VS Code"
+        ],
+        "enabled": false
+    }
+]
